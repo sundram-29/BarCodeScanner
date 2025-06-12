@@ -1,0 +1,19 @@
+# Node
+node_modules/
+.env
+.DS_Store
+
+# React Native
+android/
+ios/
+*.apk
+*.keystore
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Others
+.expo/
+.expo-shared/
